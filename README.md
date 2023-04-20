@@ -1,1 +1,3 @@
+# Description
+An eCommerce program is a software application designed to facilitate the buying and selling of products and services online. It allows businesses to create and manage an online storefront where customers can browse products, make purchases, and complete transactions. Ecommerce programs typically include features such as inventory management, order processing, payment processing, shipping and delivery tracking, and customer support. These programs can be customized to fit the unique needs and preferences of different types of businesses, from small startups to large corporations. With the rise of online shopping, ecommerce programs have become essential tools for businesses looking to reach a wider customer base and increase their revenue.
 # eCommerce
